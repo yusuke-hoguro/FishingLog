@@ -110,7 +110,7 @@ Roadmap Step自身の完了条件を確認
 
 | Roadmap Step ID | Step | Status | 関連Learning Plan |
 | --- | --- | --- | --- |
-| `roadmap-step-01` | Step 1: PHP基礎 | `未着手` | なし |
+| `roadmap-step-01` | Step 1: PHP基礎 | `進行中` | `php-foundations` — [Plan](../study/plans/php-foundations-plan.md) |
 | `roadmap-step-02` | Step 2: Laravel基礎 | `未着手` | なし |
 | `roadmap-step-03` | Step 3: Fishing Log v1 要件定義 | `未着手` | なし |
 | `roadmap-step-04` | Step 4: API・データベース設計 | `未着手` | なし |
